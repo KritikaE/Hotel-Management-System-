@@ -1,12 +1,12 @@
 # Hotel-Management-System-
 
 
-Project Overview
+**Project Overview:**
 
 This project is a detailed Software Engineering analysis of a Hotel Management System (HMS), focusing on the foundational design and architecture using the Unified Modeling Language (UML). The objective is to formally model the system's requirements, structure, and behavior to serve as a blueprint for development.
 
 
-Key Artifacts Included:
+**Key Artifacts Included:**
 
 The primary deliverables of this project are the core UML diagrams, which model different aspects of the HMS:
 
